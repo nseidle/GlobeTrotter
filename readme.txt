@@ -1,0 +1,1 @@
+GlobeTrotter is a project to control large RGB LED strips to light up a 22" acrylic globe. Control is also done via sliders.
